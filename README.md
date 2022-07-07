@@ -1,2 +1,1 @@
-# NTU-Projects
-Something learned in the NTU courses
+Including something I learned in the NTU courses
